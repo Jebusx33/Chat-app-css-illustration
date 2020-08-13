@@ -660,7 +660,7 @@
 
 @media(max-width: 568px){
     #content {
-        max-width: 568px
+        max-width: 568px;
         height: auto;
         overflow-x: hidden;
 
@@ -702,13 +702,6 @@
     }
 }
 @media(max-width: 415px) {
-    #content {
-      
-        height: auto;
-        overflow-x: hidden;
-
-
-    }
 
     .rec_radL {
         left: -270px;
@@ -747,7 +740,6 @@
 
 @media(max-width: 375px) {
     #content {
-      
         height: auto;
         overflow-x: hidden;
 
